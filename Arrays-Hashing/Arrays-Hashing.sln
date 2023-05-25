@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EasyQuestions", "EasyQuestions", "{5DA72892-725A-41C7-B369-A55D9567CC1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contains Duplicate-217", "Contains Duplicate-217\Contains Duplicate-217.csproj", "{C68BF195-8A58-4C11-8B15-5C41F41DA160}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valid Anagram-242", "Valid Anagram-242\Valid Anagram-242.csproj", "{157B6A5D-18A1-4BEF-A641-7D2A67728530}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C68BF195-8A58-4C11-8B15-5C41F41DA160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C68BF195-8A58-4C11-8B15-5C41F41DA160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C68BF195-8A58-4C11-8B15-5C41F41DA160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C68BF195-8A58-4C11-8B15-5C41F41DA160}.Release|Any CPU.Build.0 = Release|Any CPU
+		{157B6A5D-18A1-4BEF-A641-7D2A67728530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{157B6A5D-18A1-4BEF-A641-7D2A67728530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{157B6A5D-18A1-4BEF-A641-7D2A67728530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{157B6A5D-18A1-4BEF-A641-7D2A67728530}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C68BF195-8A58-4C11-8B15-5C41F41DA160} = {5DA72892-725A-41C7-B369-A55D9567CC1B}
+		{157B6A5D-18A1-4BEF-A641-7D2A67728530} = {5DA72892-725A-41C7-B369-A55D9567CC1B}
+	EndGlobalSection
+EndGlobal
